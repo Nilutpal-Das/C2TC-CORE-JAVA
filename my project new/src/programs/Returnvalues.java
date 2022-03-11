@@ -4,7 +4,7 @@ public class Returnvalues {
 
 	public static void main(String[] args) {
 	int num1 = 11;
-	int num2 = 7;
+	
 	
 	
     int answer1;
