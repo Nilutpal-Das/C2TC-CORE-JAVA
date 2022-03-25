@@ -3,7 +3,7 @@ package programs;
 public class Pyramid {
 
 	public static void main(String[] args) {
-int n=8;
+		int n=8;
 		
 		for( int i=1;i<=n; i++)//outer loop
 		{
